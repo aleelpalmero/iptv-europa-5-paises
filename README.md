@@ -10,6 +10,15 @@ Lista M3U de 114 emisiones gratuitas seleccionadas de [IPTV-org](https://github.
 | Francia | 9 |
 | Italia | 19 |
 
+## Organización
+
+Los canales se agrupan por país en dos bloques amplios:
+
+- **Televisión**: cadenas convencionales, públicas, autonómicas, regionales, locales, TDT y canales de noticias, culturales, deportivos o institucionales disponibles en la selección.
+- **Series y entretenimiento**: canales temáticos de cine, series, documentales, música, programas y emisiones FAST.
+
+Alemania conserva un único grupo de Televisión para evitar una categoría con un solo canal. No queda ningún grupo de un único canal. Se mantienen las 114 emisiones de la selección comprobada; este cambio reorganiza los grupos y no añade enlaces sin verificar.
+
 ## Uso
 
 Descarga [IPTV-Europa-5-Paises.m3u](./IPTV-Europa-5-Paises.m3u) o abre esta URL de red en VLC, Kodi o TiviMate:
